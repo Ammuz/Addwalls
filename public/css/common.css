@@ -1,0 +1,314 @@
+@charset "utf-8";
+/* CSS Document */
+.op{
+    padding: 0px 0 10px 0;
+}
+.op .fl{
+    padding: 0;
+}
+.op .fr{
+    text-align: right; padding: 0;     margin-top: 20px;
+}
+.op .container{
+    border-bottom: 10px solid #eee;
+    /* border-top: 10px solid #eee; */
+    padding-top: 10px;
+}
+.op .fr img{
+    width: 200px;
+}
+.op hr{
+    border-top: 10px solid #eee;     margin-top: 0;
+    margin-bottom: 15px;
+ 
+}
+.reg {
+    padding: 5px 0 10px;
+    font-size: 14px;
+}
+
+.icon img {
+    width: 23px;
+}
+.desg {
+    font-size: 14px;
+}
+.addres {
+    line-height: 23px; font-size: 14px;
+}
+.icon {
+     margin-right: 10px;
+  
+}
+.name {
+    padding-top: 12px;
+    padding-bottom: 5px;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.f1{
+    width: 60%;
+    display: inline-block;
+     height: 1px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000;
+    background-color: #fff;
+    background-image: none;
+    border-bottom: 1px dotted #ccc;
+}
+.f2{
+    width:10%;
+    display: inline-block;
+    /* width: 100%; */
+    height: 1px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000;
+    background-color: #fff;
+    background-image: none;
+    border-bottom: 1px dotted #ccc;
+}
+.f3{
+    width:14%;
+    display: inline-block;
+    /* width: 100%; */
+    height: 1px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000;
+    background-color: #fff;
+    background-image: none;
+    border-bottom: 1px dotted #ccc;
+}
+label {
+    margin-bottom: 15px;     font-weight: 600;
+}
+#f4{
+    width:93%;
+    display: inline-block;
+    /* width: 100%; */
+    height: 1px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000;
+    background-color: #fff;
+    background-image: none;
+    border-bottom: 1px dotted #ccc;
+}
+
+.form-group {
+    display: inline-block;
+    margin-bottom: 15px;
+    margin-top: 8px;
+    margin-right: 5px;
+  }
+  
+  .form-group input {
+    padding: 0;
+    height: initial;
+    width: initial;
+    margin-bottom: 0;
+    display: none;
+    cursor: pointer;
+  }
+  
+  .form-group label {
+    position: relative;
+    cursor: pointer;
+  }
+  
+  .form-group label:before {
+    content:'';
+    /*-webkit-appearance: none;*/
+    background-color: transparent;
+    border: 2px solid #0079bf;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+    padding: 10px;
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  
+  .form-group input:checked + label:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 2px;
+    left: 9px;
+    width: 6px;
+    height: 14px;
+    border: solid #0079bf;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+  }
+  .mob {
+    font-size: 14px;
+    margin: 5px 0;
+}
+.mail {
+    font-size: 14px;
+    margin: 5px 0;
+}
+.web {
+    font-size: 14px;
+    margin: 5px 0;
+}
+.billing .in{
+    text-align:left; margin-bottom: 25px;
+}
+.design {
+    margin-top: 30px;
+    border-top: 2px solid #e74157;
+    border-bottom: 2px solid #e74157;
+  
+}
+.design table {
+    width: 100%;
+}
+.term{
+    padding-top: 25px;
+}
+.term .container{
+    padding-top: 5px;
+    padding-bottom: 10px;
+   border-top: 2px solid #e74157;
+    margin-bottom: 20px; display: block;
+    border-bottom: 10px solid #e74157;
+}
+.term .col-md-10 strong{
+    padding: 10px 0;
+    display: block;
+}
+.term .col-md-2{
+    padding-top:85px;
+}
+.term .col-md-10 li{
+   list-style: disc; padding:5px 0;
+}
+.design div{
+    float: left;
+}
+.design td:nth-child(5n) {
+    border-right: none;
+}
+td {
+    padding: 10px 0;
+    text-align: center;
+    border-right: 2px solid #e74157;
+}
+.one {
+   border-bottom: 2px solid #e74157;
+    width: 15%;font-weight: 700; text-align: center;    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.two {
+    text-align: center;
+   border-bottom: 2px solid #e74157;
+    width:45%;font-weight: 700;   padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.three {
+    text-align: center;border-bottom: 2px solid #e74157;
+    font-weight: 700;  padding-top: 10px;
+    padding-bottom: 10px;
+
+    width: 15%;
+}
+.four {
+    text-align: center;border-bottom: 2px solid #e74157;
+    font-weight: 700;
+    padding-bottom: 10px;
+
+    width: 15%;   padding-top: 10px;
+}
+.five {
+    text-align: center;border-bottom: 2px solid #e74157;
+      padding-top: 10px;
+      padding-bottom: 10px;
+  
+    width: 20%; font-weight: 700;
+}
+
+  strong {
+    font-weight: 600;
+}
+footer{
+    margin-bottom: 5px;
+}
+  .contents {
+    width: 100%;
+    float: left;
+    min-height: 235px;
+}
+footer .container {
+    border-top: 10px solid #eee;
+    padding: 12px 0 0 0;
+    /* border-bottom: 10px solid #eee; */
+}
+footer .fr {
+    text-align: right;
+    border-left: 5px solid #eee;
+    line-height: 25px;
+}
+footer .fl {
+   line-height: 25px;
+}
+p{
+    font-size: 15px;
+    line-height: 25px;
+    margin-bottom: 10px;
+}
+@media (max-width: 767px) {
+    .op .fr {
+        width: 100%;
+        text-align: center;}
+        .op .fl {
+            width: 100%;
+            text-align: center;
+        }
+        .billing .in {
+            text-align: center;
+            margin-bottom: 25px;
+        }
+        .design table {
+            overflow-y: scroll;}
+            .design form {
+                padding: 0 10px;
+            }
+            
+            .term .col-md-2 {
+                padding-top: 50px;
+                text-align: right;
+            }
+            footer .fl {
+                line-height: 25px;
+                width: 100%;
+                text-align: center;
+                margin-bottom: 10px;
+            }
+            footer .fr {
+                width: 100%;
+                text-align: center;     border-left:none;
+              
+            }    
+            label {
+                font-size: 12px;    margin-bottom: 12px;
+            } 
+            .f1 {
+                width: 40%;}
+                .f2 {
+                    width: 15%;}
+                    #f4 {
+                        width: 60%;}       
+}
+

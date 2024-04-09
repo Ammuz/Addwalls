@@ -1,0 +1,527 @@
+WARNING - 2024-03-30 03:54:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 03:54:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 03:54:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 03:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 03:54:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 03:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 03:54:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 03:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 03:57:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 03:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 03:57:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 03:57:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 03:57:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 03:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 03:58:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 03:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 03:58:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 03:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 03:58:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 03:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 03:58:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 03:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 03:59:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 03:59:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:00:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-30 04:00:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:00:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:00:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-30 04:00:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:00:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:00:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-30 04:00:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:00:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:00:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:01:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-30 04:01:44 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 970.
+ 1 SYSTEMPATH\BaseModel.php(970): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Admin\ManagerController.php(529): CodeIgniter\Model->update('1', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin\ManagerController->Tmanager_save()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ManagerController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-30 04:04:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:04:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:04:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:04:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:04:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:04:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:04:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:04:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:05:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:05:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-30 04:05:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:05:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:05:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:05:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:08:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-30 04:08:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:08:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:08:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:08:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:09:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:09:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:09:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-30 04:09:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:09:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:09:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:09:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:10:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:10:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:10:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:10:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:10:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:10:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:10:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:10:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:11:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:11:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:11:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-30 04:11:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:11:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:11:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:11:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:12:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-30 04:12:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:12:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:13:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:13:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:13:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:13:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:13:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:14:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-30 04:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-30 04:14:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-30 04:14:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-30 04:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:14:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:14:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:14:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:14:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:15:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:15:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:15:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:15:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:15:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:21:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-30 04:21:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:21:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:21:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-30 04:21:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:21:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:21:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:21:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:22:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:22:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:22:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:22:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-30 04:22:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:24:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:25:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:25:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-30 04:25:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin\ManagerController::$ManagerModel is deprecated in APPPATH\Controllers\Admin\ManagerController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin\ManagerController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-30 04:25:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

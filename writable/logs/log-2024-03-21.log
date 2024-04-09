@@ -1,0 +1,1177 @@
+WARNING - 2024-03-21 04:32:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 04:32:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 04:32:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 04:32:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 04:33:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 04:33:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 04:36:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 04:36:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 04:36:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 04:36:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 04:36:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 04:37:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+ERROR - 2024-03-21 04:37:19 --> mysqli_sql_exception: Unknown column 'dist_name' in 'field list' in C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_na...', 0)
+#1 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_na...')
+#2 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_na...')
+#3 C:\xampp\htdocs\Adwalls\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_na...', Array, false)
+#4 C:\xampp\htdocs\Adwalls\app\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Adwalls\app\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('0')
+#6 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('17')
+#7 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+#8 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Adwalls\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Adwalls\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-03-21 04:37:19 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 2 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('0')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('17')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 04:37:19 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'0\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'0\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 4 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('0')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('17')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 04:37:19 --> [Caused by] mysqli_sql_exception: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'0\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'0\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'0\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 5 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('0')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('17')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 06:47:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 06:47:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 06:47:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 06:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 06:47:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 06:47:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 06:47:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 06:47:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 06:48:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 06:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 06:48:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 06:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 06:49:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 06:49:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 06:49:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 06:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 06:49:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 06:49:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 06:49:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 06:49:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 06:49:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 06:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 06:50:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 06:50:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 06:50:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+ERROR - 2024-03-21 06:50:52 --> mysqli_sql_exception: Unknown column 'dist_name' in 'field list' in C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_na...', 0)
+#1 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_na...')
+#2 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_na...')
+#3 C:\xampp\htdocs\Adwalls\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_na...', Array, false)
+#4 C:\xampp\htdocs\Adwalls\app\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Adwalls\app\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('9')
+#6 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('14')
+#7 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+#8 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Adwalls\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Adwalls\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-03-21 06:50:52 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 2 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('9')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('14')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 06:50:52 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'9\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'9\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 4 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('9')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 06:50:52 --> [Caused by] mysqli_sql_exception: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'9\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'9\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'9\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 5 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('9')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('14')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 06:50:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 06:50:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 09:33:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+ERROR - 2024-03-21 09:33:57 --> mysqli_sql_exception: Unknown column 'dist_name' in 'field list' in C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_na...', 0)
+#1 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_na...')
+#2 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_na...')
+#3 C:\xampp\htdocs\Adwalls\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_na...', Array, false)
+#4 C:\xampp\htdocs\Adwalls\app\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Adwalls\app\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('9')
+#6 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('14')
+#7 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+#8 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Adwalls\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Adwalls\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-03-21 09:33:57 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 2 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('9')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('14')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 09:33:57 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'9\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'9\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 4 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('9')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 09:33:57 --> [Caused by] mysqli_sql_exception: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'9\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'9\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'9\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 5 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('9')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('14')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 09:34:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 09:34:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 09:55:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 09:55:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 09:56:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 09:56:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 09:56:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 09:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 09:56:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 09:57:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 09:57:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 09:58:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 09:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 09:58:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 09:58:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 09:58:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+ERROR - 2024-03-21 09:58:14 --> mysqli_sql_exception: Unknown column 'dist_name' in 'field list' in C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_na...', 0)
+#1 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_na...')
+#2 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_na...')
+#3 C:\xampp\htdocs\Adwalls\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_na...', Array, false)
+#4 C:\xampp\htdocs\Adwalls\app\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Adwalls\app\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('0')
+#6 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('17')
+#7 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+#8 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Adwalls\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Adwalls\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-03-21 09:58:14 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 2 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('0')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('17')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 09:58:14 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'0\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'0\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 4 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('0')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('17')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 09:58:14 --> [Caused by] mysqli_sql_exception: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'0\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'0\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'0\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 5 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('0')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('17')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 09:58:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 09:58:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 09:58:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+ERROR - 2024-03-21 09:58:22 --> mysqli_sql_exception: Unknown column 'dist_name' in 'field list' in C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_na...', 0)
+#1 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_na...')
+#2 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_na...')
+#3 C:\xampp\htdocs\Adwalls\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_na...', Array, false)
+#4 C:\xampp\htdocs\Adwalls\app\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Adwalls\app\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('1')
+#6 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('16')
+#7 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+#8 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Adwalls\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Adwalls\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-03-21 09:58:22 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 2 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('1')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('16')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 09:58:22 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'1\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 4 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('1')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('16')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 09:58:22 --> [Caused by] mysqli_sql_exception: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'1\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'1\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 5 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('1')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('16')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 09:58:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 09:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 09:58:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+ERROR - 2024-03-21 09:58:35 --> mysqli_sql_exception: Unknown column 'dist_name' in 'field list' in C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_na...', 0)
+#1 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_na...')
+#2 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_na...')
+#3 C:\xampp\htdocs\Adwalls\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_na...', Array, false)
+#4 C:\xampp\htdocs\Adwalls\app\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Adwalls\app\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('0')
+#6 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('17')
+#7 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+#8 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Adwalls\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Adwalls\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-03-21 09:58:35 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 2 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('0')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('17')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 09:58:35 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'0\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'0\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 4 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('0')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('17')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 09:58:35 --> [Caused by] mysqli_sql_exception: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'0\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'0\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'0\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 5 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('0')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('17')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 09:58:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 09:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 09:58:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 09:58:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 09:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 10:04:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+ERROR - 2024-03-21 10:04:58 --> mysqli_sql_exception: Unknown column 'dist_name' in 'field list' in C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_na...', 0)
+#1 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_na...')
+#2 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_na...')
+#3 C:\xampp\htdocs\Adwalls\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_na...', Array, false)
+#4 C:\xampp\htdocs\Adwalls\app\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Adwalls\app\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('1')
+#6 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('16')
+#7 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+#8 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Adwalls\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Adwalls\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-03-21 10:04:58 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 2 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('1')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('16')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 10:04:58 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'1\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 4 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('1')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('16')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 10:04:58 --> [Caused by] mysqli_sql_exception: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'1\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'1\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 5 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('1')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('16')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 10:04:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 10:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 10:56:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+ERROR - 2024-03-21 10:56:12 --> mysqli_sql_exception: Unknown column 'dist_name' in 'field list' in C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_na...', 0)
+#1 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_na...')
+#2 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_na...')
+#3 C:\xampp\htdocs\Adwalls\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_na...', Array, false)
+#4 C:\xampp\htdocs\Adwalls\app\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Adwalls\app\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('9')
+#6 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('14')
+#7 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+#8 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Adwalls\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Adwalls\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-03-21 10:56:12 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 2 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('9')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('14')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 10:56:12 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'9\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'9\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 4 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('9')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 10:56:12 --> [Caused by] mysqli_sql_exception: Unknown column 'dist_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'9\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'9\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = \'9\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `dist_name`
+FROM `districts`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 5 APPPATH\Models\AdminModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\ApplicationController.php(507): App\Models\AdminModel->getDistrictNameById('9')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->edit_admin('14')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 10:56:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 10:56:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 11:13:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 11:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 11:14:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:14:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:20:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 11:20:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 11:20:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:20:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+ERROR - 2024-03-21 11:20:51 --> mysqli_sql_exception: Table 'addwalls.districts' doesn't exist in C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\Adwalls\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\Adwalls\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Adwalls\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\Adwalls\app\Controllers\ApplicationController.php(420): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(941): App\Controllers\ApplicationController->getDist()
+#8 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+#9 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Adwalls\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Adwalls\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2024-03-21 11:20:51 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'addwalls.districts' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `districts`
+WHERE `state_id` = :state_id:', [...], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\ApplicationController.php(420): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->getDist()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 11:20:51 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'addwalls.districts' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `districts`
+WHERE `state_id` = \'19\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `districts`
+WHERE `state_id` = \'19\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `districts`
+WHERE `state_id` = :state_id:', [...], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\ApplicationController.php(420): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->getDist()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 11:20:51 --> [Caused by] mysqli_sql_exception: Table 'addwalls.districts' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *
+FROM `districts`
+WHERE `state_id` = \'19\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `districts`
+WHERE `state_id` = \'19\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `districts`
+WHERE `state_id` = \'19\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `districts`
+WHERE `state_id` = :state_id:', [...], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\ApplicationController.php(420): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->getDist()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:22:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+INFO - 2024-03-21 11:22:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-03-21 11:22:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:22:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+ERROR - 2024-03-21 11:22:40 --> mysqli_sql_exception: Table 'addwalls.cities' doesn't exist in C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\Adwalls\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\Adwalls\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Adwalls\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\Adwalls\app\Controllers\ApplicationController.php(428): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(941): App\Controllers\ApplicationController->getcity()
+#8 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+#9 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Adwalls\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Adwalls\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2024-03-21 11:22:40 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'addwalls.cities' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cities`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\ApplicationController.php(428): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->getcity()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 11:22:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'addwalls.cities' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `cities`
+WHERE `dist_id` = \'undefined\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `cities`
+WHERE `dist_id` = \'undefined\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cities`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\ApplicationController.php(428): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->getcity()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 11:22:40 --> [Caused by] mysqli_sql_exception: Table 'addwalls.cities' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *
+FROM `cities`
+WHERE `dist_id` = \'undefined\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `cities`
+WHERE `dist_id` = \'undefined\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `cities`
+WHERE `dist_id` = \'undefined\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cities`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\ApplicationController.php(428): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->getcity()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:22:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+ERROR - 2024-03-21 11:22:43 --> mysqli_sql_exception: Table 'addwalls.cities' doesn't exist in C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Adwalls\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\Adwalls\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\Adwalls\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\Adwalls\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Adwalls\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\Adwalls\app\Controllers\ApplicationController.php(428): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(941): App\Controllers\ApplicationController->getcity()
+#8 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+#9 C:\xampp\htdocs\Adwalls\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Adwalls\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Adwalls\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2024-03-21 11:22:43 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'addwalls.cities' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cities`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\ApplicationController.php(428): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->getcity()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 11:22:43 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'addwalls.cities' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `cities`
+WHERE `dist_id` = \'undefined\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `cities`
+WHERE `dist_id` = \'undefined\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cities`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\ApplicationController.php(428): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->getcity()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+CRITICAL - 2024-03-21 11:22:43 --> [Caused by] mysqli_sql_exception: Table 'addwalls.cities' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *
+FROM `cities`
+WHERE `dist_id` = \'undefined\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `cities`
+WHERE `dist_id` = \'undefined\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `cities`
+WHERE `dist_id` = \'undefined\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cities`
+WHERE `dist_id` = :dist_id:', [...], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\ApplicationController.php(428): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ApplicationController->getcity()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApplicationController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:28:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:28:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:28:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:28:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:28:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:28:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:28:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:28:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:28:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:28:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:28:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 11:28:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
+WARNING - 2024-03-21 17:53:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\ApplicationController::$AdminModel is deprecated in APPPATH\Controllers\ApplicationController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\ApplicationController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Adwalls\\public\\index.php')
