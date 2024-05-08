@@ -20,7 +20,11 @@
 
 <body>
     <div class="main-wrapper">
+<<<<<<< HEAD
     <?php if (session()->has('user_type') && session('user_type') === 'admin'): ?>
+=======
+      <?php if (session()->has('user_type') && session('user_type') === 'admin'): ?>
+>>>>>>> 567f205bd73fdd9e174564838e1e75e100a9ed6c
             <!-- Admin Sidebar -->
             <?php echo view('Admin/sidebar'); ?>
         <?php else: ?>
