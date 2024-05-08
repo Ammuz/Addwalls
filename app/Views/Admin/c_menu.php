@@ -1,6 +1,6 @@
 <div class="header">
     <div class="header-left">
-        <a href="index-2.html" class="logo">
+        <a href="" class="logo">
 
             <span><i class="fa fa-user"></i> SUPER ADMIN</span>
         </a>
@@ -93,7 +93,7 @@
             </a>
             <div class="dropdown-menu">
                 <!-- <a class="dropdown-item" href="profile.html">My Profile</a> -->
-                <a class="dropdown-item" href="edit-profile.html">Edit Profile</a>
+                <a class="dropdown-item" href="">Edit Profile</a>
                 <a class="dropdown-item" href="">Logout</a>
             </div>
         </li>
@@ -135,7 +135,7 @@
 						</li>
                         -->
                         <li class="">
-                            <a href="<?=site_url('super_admin/dashboard');?>"><i class="fa fa-dashboard"></i> <span>Dashboard</span></a>
+                            <a href="<?=site_url('superadmin/dashboard');?>"><i class="fa fa-dashboard"></i> <span>Dashboard</span></a>
                         </li>
                 <li>
                     <a href="<?=site_url('Addwalls/staffcategorys');?>"><i class="fa fa-user"></i> <span>Staff
@@ -151,7 +151,7 @@
                     <a href="<?=site_url('Addwalls/dividend');?>"><i class="fa fa-user"></i> <span>Divident</span></a>
                 </li>
                 <li>
-                    <a href="<?=site_url('Addwalls/agent_bonus');?>"><i class="fa fa-user"></i> <span>Agent Bonus</span></a>
+                    <a href="<?=site_url('Addwalls/agentbonus');?>"><i class="fa fa-user"></i> <span>Agent Bonus</span></a>
                 </li>
                 <li>
                     <a href="<?=site_url('Applications');?>"><i class="fa fa-users"></i> <span>Applications</span></a>

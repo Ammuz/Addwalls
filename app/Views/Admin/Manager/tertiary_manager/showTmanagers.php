@@ -100,12 +100,12 @@
                                         <td><?=$tertiary_manager->Paddress;?></td>
                                         <td><?=$tertiary_manager->Status;?></td>
                                         <td>
-                                            <a href="<?php echo base_url('show_agents/'. $tertiary_manager->Tmanager_id); ?>"
+                                            <a href="<?php echo base_url('show/agents/'. $tertiary_manager->Tmanager_id); ?>"
                                                 class="editBtn"><button class="edit-button" ><i class="fas fa-eye"></i></button></a></td>
                                         <td>
-                                            <a href="<?= base_url('edit_tertiarymanager/edit/'.$tertiary_manager->Tmanager_id)?>"
+                                            <a href="<?= base_url('tertiarymanager/edit/'.$tertiary_manager->Tmanager_id)?>"
                                                 class="editBtn"><button class="edit-button" ><i class="fas fa-edit"></i></button></a>
-                                            <a href="<?= base_url('tertiary_manager/delete/'.$tertiary_manager->Tmanager_id) ?>"
+                                            <a href="<?= base_url('tertiarymanager/delete/'.$tertiary_manager->Tmanager_id) ?>"
                                                 class="deleteBtn"><button class="delete-button"><i class="fas fa-trash-alt"></i> </button></a>
                                    
 

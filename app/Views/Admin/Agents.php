@@ -88,7 +88,7 @@
                                         <td><?=$Patient['Mobile']?></td>
 										<td><?=$Patient['Email']?></td>
                     <td>
-                    <a href="<?= base_url('edit_agent/edit/'.$Patient['a_id']) ?>"
+                    <a href="<?= base_url('agent/edit/'.$Patient['a_id']) ?>"
                                                 class="editBtn"><button class="edit-button" ><i class="fas fa-edit"></i></button></a>
                                             <a href="<?= base_url('agent/delete/'.$Patient['a_id']) ?>"
                                                 class="deleteBtn"><button class="delete-button"><i class="fas fa-trash-alt"></i> </button></a></td>

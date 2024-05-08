@@ -93,7 +93,7 @@
             </a>
             <div class="dropdown-menu">
                 <!-- <a class="dropdown-item" href="profile.html">My Profile</a> -->
-                <a class="dropdown-item" href="edit-profile.html">Edit Profile</a>
+                <a class="dropdown-item" href="">Edit Profile</a>
                 <a class="dropdown-item" href="<?= site_url('admin/logout') ?>">Logout</a>
             </div>
         </li>

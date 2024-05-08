@@ -98,10 +98,10 @@
                                         <td><?=$agent->Address;?></td>
                                         <td><?=$agent->Status;?></td>
                                         <td>
-                                            <a href="<?php echo base_url('show_shareholders/'. $agent->a_id); ?>"
+                                            <a href="<?php echo base_url('show/shareholders/'. $agent->a_id); ?>"
                                                 class="editBtn"><button class="edit-button" ><i class="fas fa-eye"></i></button></a></td>
                                         <td>
-                                            <a href="<?= base_url('edit_agent/edit/'.$agent->a_id) ?>"
+                                            <a href="<?= base_url('agent/edit/'.$agent->a_id) ?>"
                                                 class="editBtn"><button class="edit-button" ><i class="fas fa-edit"></i></button></a>
                                             <a href="<?= base_url('agent/delete/'.$agent->a_id) ?>"
                                                 class="deleteBtn"><button class="delete-button"><i class="fas fa-trash-alt"></i> </button></a>

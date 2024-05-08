@@ -385,7 +385,7 @@ public function delete_manager($manager_id)
             return redirect()->to('manager/dashboard');
             } else {
                 // Invalid credentials, show error message
-                return redirect()->to('manager_login')->with('error', 'Invalid username or password');
+                return redirect()->to('manager/login')->with('error', 'Invalid username or password');
             }
          
         }
@@ -393,7 +393,7 @@ public function delete_manager($manager_id)
         {
             $session = session();
             if (!$session->get('isLoggedIn')) {
-                return redirect()->to('manager_login'); // Redirect to login if not logged in
+                return redirect()->to('manager/login'); // Redirect to login if not logged in
             }
         
             return view('Admin/Manager/dashboard');
@@ -415,7 +415,7 @@ public function delete_manager($manager_id)
                 $session->destroy();
             
                 // Redirect to the login page or any other desired page
-                return redirect()->to('manager_login');
+                return redirect()->to('manager/login');
             }
             
 
@@ -452,7 +452,7 @@ public function Tmanager_save()
         $managercode = $session->get('managercode');
     
         if (!$isLoggedIn || empty($managercode)) {
-            return redirect()->to('manager_login')->with('error', 'Please log in to access the dashboard.');
+            return redirect()->to('tertiarymanagers/login')->with('error', 'Please log in to access the dashboard.');
         }
     //dd($managercode);exit;
        // $applicationModel = new ApplicationModel();
@@ -732,7 +732,7 @@ public function tmanager_login()
         return redirect()->to('tertiarymanager/dashboard');
         } else {
             // Invalid credentials, show error message
-            return redirect()->to('tertiary_manager_login')->with('error', 'Invalid username or password');
+            return redirect()->to('tertiarymanagers/login')->with('error', 'Invalid username or password');
         }
      
     }
@@ -740,7 +740,7 @@ public function tmanager_login()
     {
         $session = session();
         if (!$session->get('isLoggedIn')) {
-            return redirect()->to('tertiary_manager_login'); // Redirect to login if not logged in
+            return redirect()->to('tertiarymanagers/login'); // Redirect to login if not logged in
         }
     
         return view('Admin/Manager/tertiary_manager/dashboard');

@@ -92,7 +92,7 @@
                                         <td><?=$dividend['updated_at']?></td>
                                            
                                         <td>
-                                            <a href="<?= base_url('edit_dividend/edit/'.$dividend['dividend_id']) ?>"
+                                            <a href="<?= base_url('dividend/edit/'.$dividend['dividend_id']) ?>"
                                                 class="editBtn"><button class="edit-button" ><i class="fas fa-edit"></i></button></a>
                                             <a href="<?= base_url('dividend/delete/'.$dividend['dividend_id']) ?>"
                                                 class="deleteBtn"><button class="delete-button" ><i class="fas fa-trash-alt"></i> </button></a>

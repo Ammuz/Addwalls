@@ -61,12 +61,12 @@
             <div class="col-md-4 col-sm-4 col-lg-3">
                 <div class="profile-widget">
                     <div class="doctor-img">
-                        <a class="avatar" href="<?php echo base_url('show_tmanager/'. $manager['manager_id']); ?>"><img alt="" src="<?php echo base_url('/img/user.jpg')?>"></a>
+                        <a class="avatar" href="<?php echo base_url('show/tmanager/'. $manager['manager_id']); ?>"><img alt="" src="<?php echo base_url('/img/user.jpg')?>"></a>
                     </div>
                     <div class="dropdown profile-action">
                         <a href="#" class="action-icon dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-ellipsis-v"></i></a>
                         <div class="dropdown-menu dropdown-menu-right">
-                            <a class="dropdown-item" href="<?= base_url('edit_manager/edit/'.$manager['manager_id']) ?>"><i class="fa fa-pencil m-r-5"></i> Edit</a>
+                            <a class="dropdown-item" href="<?= base_url('manager/edit/'.$manager['manager_id']) ?>"><i class="fa fa-pencil m-r-5"></i> Edit</a>
                             <a class="dropdown-item deleteBtn" href="<?= base_url('manager/delete/'.$manager['manager_id']) ?>" data-toggle="modal" data-target="$manager['manager_id']"><i class="fa fa-trash-o m-r-5"></i> Delete</a>
                         </div>
                     </div>

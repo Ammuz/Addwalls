@@ -20,7 +20,13 @@
 
 <body>
     <div class="main-wrapper">
-    <?php echo view('Admin/c_menu'); ?>
+    <?php if (session()->has('user_type') && session('user_type') === 'admin'): ?>
+            <!-- Admin Sidebar -->
+            <?php echo view('Admin/sidebar'); ?>
+        <?php else: ?>
+            <!-- Other User Sidebar -->
+            <?php echo view('Admin/c_menu'); ?>
+        <?php endif; ?>
         <div class="page-wrapper">
             <div class="content">
                 <div class="row">

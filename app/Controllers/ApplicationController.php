@@ -261,11 +261,11 @@ class ApplicationController extends BaseController
             return redirect()->to('agent/dashboard');
         } else {
             // Agent not found, handle the error
-            return redirect()->to('agent_login')->with('error', 'Agent not found.');
+            return redirect()->to('agents/login')->with('error', 'Agent not found.');
         }
     } else {
         // Invalid credentials, show error message
-        return redirect()->to('agent_login')->with('error', 'Invalid username or password');
+        return redirect()->to('agents/login')->with('error', 'Invalid username or password');
     }
          
         }
@@ -286,7 +286,7 @@ class ApplicationController extends BaseController
             $agent = $agentModel->where('Agent_code', $agentCode)->first();
         
             if ($agent === null) {
-                return redirect()->to('agent_login')->with('error', 'Agent not found.');
+                return redirect()->to('agents/login')->with('error', 'Agent not found.');
             }
         
             // Fetch applications based on the agent code
@@ -303,7 +303,7 @@ class ApplicationController extends BaseController
             $agentCode = $session->get('agent_code');
         
             if (!$isLoggedIn || empty($agentCode)) {
-                return redirect()->to('agent_login')->with('error', 'Please log in to access the dashboard.');
+                return redirect()->to('agents/login')->with('error', 'Please log in to access the dashboard.');
             }
         
             $applicationModel = new ApplicationModel();
@@ -328,7 +328,7 @@ class ApplicationController extends BaseController
                 $session->destroy();
             
                 // Redirect to the login page or any other desired page
-                return redirect()->to('agent_login');
+                return redirect()->to('agents/login');
             }
     
             public function showAgents($tmanager_id) {
